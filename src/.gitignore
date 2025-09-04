@@ -1,0 +1,18 @@
+# Node
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+
+# client/node_modules & server/node_modules
+client/node_modules/
+server/node_modules/
+
+# Vite / React build outputs
+client/dist/
+client/build/
+
+# OS
+Thumbs.db
